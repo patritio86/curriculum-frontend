@@ -65,3 +65,47 @@ text-align: center;
 font-weight: 600;
 line-height: 1.4em;
 }
+.Contacto{
+    padding-top: 40px;
+}
+.titulos{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.Contacto ul{
+    position: relative;
+}
+.Contacto ul li{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+
+.Contacto ul li .iconos{
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: #03a9f4;
+}
+
+.Contacto ul li span{
+    color: #fff;
+    font-weight: 300px;
+
+}
+
+.Contacto.educativo li{
+    margin-bottom: 15px;
+}
+.Contacto.educativo h5{
+    color: #03a9f4;
+    font-weight: 500;
+}
+.Contacto.educativo h4{
+    color: #fff;
+    font-weight: 500;
+}
